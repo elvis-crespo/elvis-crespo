@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Elvis Crespo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXEyZXhzY2wzNDF5dzg5ZXRuZ2l2MWdkaW1ramFsY2E5cWl6ZTdzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" />
+<img align="right" width=250px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXEyZXhzY2wzNDF5dzg5ZXRuZ2l2MWdkaW1ramFsY2E5cWl6ZTdzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**About me**
 
@@ -10,6 +10,7 @@ I’m a Computer Science Engineering student, constantly learning and expanding 
 ✔ I’m passionate about learning and building new, productive, innovative, and creative things. Outside of tech, I enjoy ⚽ playing soccer, 🎵 listening to music.
 
 📫 Contact me at: eacresposu@gmail.com
+
 
 ## My Skills Include
 
